@@ -176,7 +176,7 @@ iframe {
 .contact h2 {
     margin-top: 0;
 }
-@media only screen and (max-width: 980px){
+@media only screen and (max-width: 500px){
     .logo {
         display: none;
     }
